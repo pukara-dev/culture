@@ -1,1 +1,3 @@
 site_name: Pukara Culture
+theme:
+  name: material
