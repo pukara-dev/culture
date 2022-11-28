@@ -1,3 +1,7 @@
 site_name: Pukara Culture
 theme:
   name: material
+  logo: pukara-logo.svg
+nav:
+    - Home: index.md
+    - Resources: resources/index.md
