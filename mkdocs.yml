@@ -4,4 +4,4 @@ theme:
   logo: pukara-logo.svg
 nav:
     - Home: index.md
-    - Resources: resources/index.md
+    - Core Values: core-values/index.md
