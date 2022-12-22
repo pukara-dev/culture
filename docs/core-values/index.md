@@ -2,7 +2,7 @@
 
 These values are a guide to orienting the decision taking. **When facing a dichotomy, they should be the ones guiding us.**
 
-## Initiative
+## **Initiative**
 
 Be the type of person who gets things done, whether on your own or through other people.
 
@@ -15,7 +15,7 @@ Examples:
 - If we get issues we look for workarounds and solutions by ourselves before asking/escalating to someone else.
 - Proactive Behavior
 
-## Integrity
+## **Integrity**
 
 To be honest, trustworthy and ethical in our actions.
 
@@ -28,7 +28,7 @@ Examples:
 - **Don’t lie, please!**
 - Be faithful, humble and respectful
 
-## Ability to adapt/adjust
+## **Ability to adapt/adjust**
 
 We need to be able to change and remain flexible when encountering new or different circumstances in order to achieve success.
 
@@ -37,7 +37,7 @@ Examples:
 - We might have to pivot our business strategy in response to changes in the market. Or maybe to adopt new technologies as they become available. 
 - Willing to change internal processes/policies in order to better serve customers or employees
 
-## Collaboration
+## **Collaboration**
 
 Be happy to share your knowledge and offer advice, so we can work together effectively with others in order to achieve common goals.
 
@@ -46,7 +46,7 @@ Examples:
 - We want employees to work together on projects and to share ideas and resources in order to achieve better outcomes
 - Cooperation and mutual support among employees
 
-## Communication
+## **Communication**
 
 Express in a clear way your needs and feelings.
 
@@ -54,7 +54,7 @@ Examples:
 
 - Don’t be violent and implement frameworks as non-violent communication
 
-## Curiosity & Passion
+## **Curiosity & Passion**
 
 Approach every by day asking questions, being interested, and never stopping learning.
 
@@ -65,7 +65,7 @@ Examples:
 - [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture)
 - In IT, *troubleshooting* is a very important skill. We find software issues almost every day, to solve them we require curiosity and passion, otherwise we end up with a very frustrating day
 
-## Inclusion & Diversity
+## **Inclusion & Diversity**
 
 Organizations should respect and appreciate differences in age, gender, ethnicity, education, physical abilities, race, and religion among individuals
 
@@ -73,7 +73,7 @@ Examples:
 
 - We don’t care if you’re gay, Christian, Muslim, non-binary, etc
 
-## Commitment
+## **Commitment**
 
 Be present at work, because you decided to be here and you will do your best
 
