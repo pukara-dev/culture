@@ -2,6 +2,13 @@ site_name: Pukara Culture
 theme:
   name: material
   logo: pukara-logo.svg
+  features:
+  - navigation.tabs
+markdown_extensions:
+  - footnotes
 nav:
+  - Culture:
     - Home: index.md
     - Core Values: core-values/index.md
+  - Onboarding:
+    - Welcome: onboarding/index.md
