@@ -10,7 +10,7 @@ As a new joiner, we want you to get set up quickly and easily in order to provid
 - Meetings: Google Meet comes already with G Suite. Some people might also prefer to use Slack huddle.
 - Passwords: To securely manage passwords for various online accounts and applications, Pukara uses [1Password](https://1password.com/)
 - Project Management: Pukara uses Jira for workflows, processes, collaborate more effectively, and improve overall productivity.
-- Knowledge Base: Although we are not very satisfied with it, we continue to use Confluence ([Home Page](https://pukarait.atlassian.net/wiki/spaces/PUK/overview)) as a centralized repository of information and knowledge. This is primarily because it has the best integration with Jira.
+- Knowledge Base: Although we are not very happy with it, we continue to use Confluence ([Home Page](https://pukarait.atlassian.net/wiki/spaces/PUK/overview)) as a centralized repository of information and knowledge. This is primarily because it has the best integration with Jira.
 
 ## Onboarding Checklist 
 
