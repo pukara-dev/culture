@@ -14,8 +14,10 @@ As a new joiner, we want you to get set up quickly and easily in order to provid
 
 ## Onboarding Checklist 
 
-Make sure you have access to all of the following [tools & platforms](https://pukarait.atlassian.net/wiki/spaces/PUK/pages/2265415688/Checklist). If not, speak with your line manager.
+Make sure that you have access to all of the following [tools & platforms](https://pukarait.atlassian.net/wiki/spaces/PUK/pages/2265415688/Checklist). If not, please speak with your line manager: 
 
+- Set up your [email signature](https://pukarait.atlassian.net/wiki/spaces/PUK/pages/2267512833/Email+signature)
+- (Optional but useful) Setup Calendar/G-Suite in your phone, along slack.
 
 ## Get to know company culture
 
