@@ -20,3 +20,4 @@ INFO     -  [09:55:52] Browser connected: http://localhost:8000/
 ```
 
 Make the required changes, mkdocs is going to watch for changes on `docs/` folder so no reload needed
+
