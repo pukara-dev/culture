@@ -6,6 +6,9 @@ theme:
   - navigation.tabs
 markdown_extensions:
   - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 nav:
   - Culture:
     - Home: index.md
@@ -13,3 +16,6 @@ nav:
   - Onboarding:
     - Welcome: onboarding/index.md
     - First day: onboarding/first-day.md
+  - Engineering:
+    - Welcome: engineering/index.md
+    - Using Git: engineering/using-git.md
