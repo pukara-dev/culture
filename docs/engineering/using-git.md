@@ -2,6 +2,10 @@
 
 Git, the industry-standard version control system, plays a pivotal role in Pukara's development workflow. This guide is designed to equip you with essential information and best practices, enabling effective collaboration, seamless change tracking, and efficient project management with Git. Whether you are an experienced developer or new to version control, this comprehensive resource will guide you through our specific utilization of Git within Pukara and demonstrate its seamless integration with our processes, including Jira
 
+We hold certain principles in high regard:
+
+1. Aim, whenever possible, to maintain a 1:1 relationship between Jira issues and pull requests (PRs). Avoiding the completion of multiple tasks within a single PR is considered best practice.
+2. We have implemented a Jira-Github integration. We strongly encourage everyone to utilize this feature.
 
 ## Commits
 
