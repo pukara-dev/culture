@@ -59,7 +59,18 @@ Some tips when for working with *development branches* Avoid reusing names of ol
     3. Always do a `pull` **before starting work** to have the latest changes available (in case someone else made changes) and avoid conflicts.
     4. Take into account what the rest of the team is working on to avoid working on the same files/code lines if possible, to avoid unnecessary conflicts.
 
-## Gitflow
+
+## About PR (Pull Requests)
+
+For every [Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) or Merge Request (MR), there are minimum expectations (see below). While some repositories have a predefined [PR's template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository) and checklists, others may not have these due to different customer preferences, and we need to maintain flexibility in such cases.
+
+The minimum requirements are as follows:
+
+1. Include the ticket number in the header of the PR, enclosed in brackets. For example: *[JRA-123] Update Website Content*.
+2. Ensure the title is meaningful; provide a concise description.
+3. Set a description for the PR. If for some reason there is not much to say, a brief description is fine."
+
+# Gitflow
 
 <TODO>
 

@@ -86,4 +86,3 @@ Some references and material to read:
 - [ACCELERATE: The Science of Lean Software and DevOps](https://www.amazon.es/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 - [THE PHOENIX PROJECT: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 - [Debian Social Contract](https://www.debian.org/social_contract)
-
