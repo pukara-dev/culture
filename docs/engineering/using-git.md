@@ -68,7 +68,7 @@ The minimum requirements are as follows:
 
 1. Include the ticket number in the header of the PR, enclosed in brackets. For example: *[JRA-123] Update Website Content*.
 2. Ensure the title is meaningful; provide a concise description.
-3. Set a description for the PR. If for some reason there is not much to say, a brief description is fine."
+3. Set a description for the PR. If for some reason there is not much to say, a brief description is fine.
 
 # Gitflow
 
