@@ -13,6 +13,7 @@ nav:
   - Culture:
     - Home: index.md
     - Core Values: core-values/index.md
+    - How to be a professional: be-professional/be-professional.md
   - Onboarding:
     - Welcome: onboarding/index.md
     - First day: onboarding/first-day.md
