@@ -1,6 +1,6 @@
 # How to be a professional - Pukara
 
-At Pukara, professionalism is about more than just doing a job — it's about living by principles that define who we are. Some of these values are reflected in the video “[Aprenda a tocar PANDEIRO em 2 minutos](https://www.youtube.com/watch?v=AM4KVoSpQ2M)”.
+One of our prospects asked us, "Are you professional?", which led us to reflect on this and write this article. For Pukara, professionalism is about more than just doing a job: it's about living by principles that define who we are. Some of these values are reflected in the video “[Aprenda a tocar PANDEIRO em 2 minutos](https://www.youtube.com/watch?v=AM4KVoSpQ2M)”.
 
 ## Goals  
 Professionals set clear, achievable goals and work towards them with determination. At Pukara, we focus on goals that drive our growth and add value to our clients.

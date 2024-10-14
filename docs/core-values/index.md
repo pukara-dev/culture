@@ -1,6 +1,6 @@
 # Pukara Core values
 
-These values are a guide to orienting the decision taking. **When facing a dichotomy, they should be the ones guiding us.**
+These values serve as our compass, guiding us in every decision we make. **When facing a dichotomy, they should be the ones steering us toward the best course of action**. They define how we work, collaborate, and grow (both individually and as a team). By aligning our actions with these core principles, we ensure that we stay true to our mission and create a workplace built on trust, respect, and continuous improvement.
 
 ## **Initiative**
 
@@ -26,39 +26,39 @@ Examples:
 - **Don’t lie, please!**
 - Be faithful, humble and respectful
 
-## **Ability to adapt/adjust**
+## **Ability to Adapt and Adjust**
 
-We need to be able to change and remain flexible when encountering new or different circumstances.
+As a small startup, we often need to wear many hats to achieve our goals. It's crucial that we remain flexible and embrace change when faced with new or unexpected circumstances.
 
 Examples:
 
-- We might have to pivot our business strategy in response to changes in the market. Or maybe to adopt new technologies as they become available. 
-- Willing to change internal processes/policies in order to better serve customers or employees
+- We may need to pivot our business strategy in response to market shifts or adopt new technologies/methodologies as they become available. One constant in our environment is change.
+- We might often need to rewrite or modify internal processes and policies, so it's important to remain adaptable in order to better serve our customers and employees.
 
 ## **Collaboration**
 
-Be happy to share your knowledge and offer advice, so we can contribute to our colleagues growth and deliver projects faster.
+Actively engage on sharing your knowledge and offer advice, as this helps contribute to the growth of your colleagues and enables us to deliver projects more efficiently.
 
 Examples:
 
-- We want employees to work together on projects and to share ideas and resources in order to achieve better outcomes
-- Cooperation and mutual support among employees
+- We encourage employees to collaborate on projects, sharing ideas and resources to achieve better results.
+- Cooperation and mutual support among employees are essential not only for accelerating progress but also for fostering a more empathetic and supportive work environment.
 
 ## **Communication**
 
-Clearly articulate your requirements and feelings to ensure mutual understanding and effective collaboration.
-
-Embrace frameworks for non-violent communication (NVC) to foster a respectful and productive environment.
+Clearly articulate your needs, expectations, and feelings to ensure mutual understanding and effective collaboration. Implement frameworks like [non-violent communication (NVC)](https://www.cnvc.org/) to foster a respectful and productive environment.
 
 Examples:
 
-- Don’t be violent and implement frameworks as non-violent communication
+- Practice clear, open communication by expressing your thoughts and needs without hostility, using frameworks such as Non-Violent Communication (NVC).
+- Provide constructive feedback in a way that encourages understanding and problem-solving, rather than conflict.
+- Actively listen to others, ensuring that everyone feels heard and valued during discussions.
 
 ## **Curiosity & Passion**
 
 Approach every day by asking questions, staying interested, and never stopping learning.
 
-"The desire to constantly question concepts and processes in order to improve. Curious people are willing to leave their comfort zone and explore the possibilities, as they know the path will lead to progress." (ref [here](https://medium.com/@casafari/building-a-company-based-on-good-values-curiosity-16292acb6fb1))
+"_The desire to constantly question concepts and processes in order to improve. Curious people are willing to leave their comfort zone and explore the possibilities, as they know the path will lead to progress._" (ref [here](https://medium.com/@casafari/building-a-company-based-on-good-values-curiosity-16292acb6fb1))
 
 Examples:
 
@@ -75,7 +75,12 @@ Examples:
 
 ## **Commitment**
 
-Be present at work, because you decided to be here and you will do your best
+Be fully present and engaged at work, as you’ve made the decision to be here, and you are committed to giving your best effort.
+
+Examples:
+
+- Follow through on your commitments, meeting deadlines and supporting your colleagues when needed.
+- Take ownership of your work and hold yourself accountable for delivering high-quality results.
 
 # References
 
