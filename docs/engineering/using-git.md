@@ -11,13 +11,11 @@ We hold certain principles in high regard:
 
 A commit is a snapshot of changes made to a Git repository, representing a specific point in the project's history. The following are the rules we follow when committing code to our repositories.
 
+- We use the [pre-commit framework](https://pre-commit.com/) for nearly every repository. Please ensure it is installed and used (anyway we have pipelines to enforce it).
 - Write commit messages in English.
 - Commits should not group an excessive amount of changes. Ideally, commits should encompass concise functionalities or a small set of changes that accomplish a specific task.
 - Avoid the pattern of a single large commit. Instead, it is recommended to break it down into smaller commits.
-- When working with a Pull Request that involves multiple Jira tickets, it is a useful practice to link the commit message to your respective Jira issues. For example, you can use the following format: `git commit -m "JRA-123: <commit message>"`.
 - The commit subject contains a concise description of the change. It is recommended to use the imperative form in the present tense. For example, use "change" instead of "changed" or "changes". Also, avoid placing a dot (.) at the end of the subject.
-
-
 
 ???+ tip "From [The seven rules of a great Git commit message](https://cbea.ms/git-commit/#seven-rules)"
 
