@@ -1,6 +1,6 @@
 # How to be a professional - Pukara
 
-Last week, one of our prospects asked us, _"Are you professional?"_. This question led us to reflect on professionalism and inspired us to write this article. At Pukara, professionalism goes beyond simply doing a job; it's about living by principles that define who we are. Some of these values are reflected in the video “[Aprenda a tocar PANDEIRO em 2 minutos](https://www.youtube.com/watch?v=AM4KVoSpQ2M)”.
+Last week, one of our prospects asked us, _"Are you professional?"_. This question led us to reflect on professionalism and inspired us to write this article. At Pukara, professionalism goes beyond simply doing a job; it's about living by principles that define who we are. Some of these values are reflected in the video “[Aprenda a tocar PANDEIRO em 2 minutos](https://www.youtube.com/watch?v=AM4KVoSpQ2M){:target="_blank"}”.
 
 In summary, for us, being professional means:
 

@@ -6,4 +6,4 @@ This resource is designed to serve as a dynamic, growing knowledge base for both
 
 ## Must-reads
 
-1. **[The twelve-factor app methodology](https://12factor.net/)**: It's crucial that everyone understands and adheres to this methodology when coding. This is particularly vital for junior developers who often mistakenly commit credentials in code or hardcode configurations.
+1. **[The twelve-factor app methodology](https://12factor.net/){:target="_blank"}**: It's crucial that everyone understands and adheres to this methodology when coding. This is particularly vital for junior developers who often mistakenly commit credentials in code or hardcode configurations.

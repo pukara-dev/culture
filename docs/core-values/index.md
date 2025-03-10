@@ -46,7 +46,7 @@ Examples:
 
 ## **Communication**
 
-Clearly articulate your needs, expectations, and feelings to ensure mutual understanding and effective collaboration. Implement frameworks like [non-violent communication (NVC)](https://www.cnvc.org/) to foster a respectful and productive environment.
+Clearly articulate your needs, expectations, and feelings to ensure mutual understanding and effective collaboration. Implement frameworks like [non-violent communication (NVC)](https://www.cnvc.org/){:target="_blank"} to foster a respectful and productive environment.
 
 Examples:
 
@@ -58,11 +58,11 @@ Examples:
 
 Approach every day by asking questions, staying interested, and never stopping learning.
 
-"_The desire to constantly question concepts and processes in order to improve. Curious people are willing to leave their comfort zone and explore the possibilities, as they know the path will lead to progress._" (ref [here](https://medium.com/@casafari/building-a-company-based-on-good-values-curiosity-16292acb6fb1))
+"_The desire to constantly question concepts and processes in order to improve. Curious people are willing to leave their comfort zone and explore the possibilities, as they know the path will lead to progress._" (ref [here](https://medium.com/@casafari/building-a-company-based-on-good-values-curiosity-16292acb6fb1){:target="_blank"})
 
 Examples:
 
-- [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture)
+- [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture){:target="_blank"}
 - In IT, *troubleshooting* is a very important skill. We find software issues almost every day, to solve them we require curiosity and passion, otherwise we end up with a very frustrating day
 
 ## **Inclusion & Diversity**
@@ -86,8 +86,8 @@ Examples:
 
 Some references and material to read:
 
-- [Amazon's leadership principles](https://www.aboutamazon.com/about-us/leadership-principles)
-- [Turn the ship around](https://www.youtube.com/watch?v=IzJL8zX3EVk)
-- [ACCELERATE: The Science of Lean Software and DevOps](https://www.amazon.es/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
-- [THE PHOENIX PROJECT: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
-- [Debian Social Contract](https://www.debian.org/social_contract)
+- [Amazon's leadership principles](https://www.aboutamazon.com/about-us/leadership-principles){:target="_blank"}
+- [Turn the ship around](https://www.youtube.com/watch?v=IzJL8zX3EVk){:target="_blank"}
+- [ACCELERATE: The Science of Lean Software and DevOps](https://www.amazon.es/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339){:target="_blank"}
+- [THE PHOENIX PROJECT: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592){:target="_blank"}
+- [Debian Social Contract](https://www.debian.org/social_contract){:target="_blank"}
