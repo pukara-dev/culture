@@ -6,17 +6,17 @@ Welcome to the first day, today you're going to be working on: meet and greet th
 
 As a new joiner, we want you to get set up quickly and easily in order to provide you with the resources you need to be successful in your new role. The following are the internal and external tools that Pukara uses. Please make sure you have access to all of them and are able to use them.
 
-- Communication: Slack is our main communication tool, where everything happens. Please make sure you read the [DOs and DO NOTs](https://pukarait.atlassian.net/wiki/spaces/PUK/pages/2257977423/Slack+Etiquette+and+Expectations) in order to use Slack more efficiently.
+- Communication: Slack is our main communication tool, where everything happens. Please make sure you read the [DOs and DO NOTs](https://pukarait.atlassian.net/wiki/spaces/PUK/pages/2257977423/Slack+Etiquette+and+Expectations){:target="_blank"} in order to use Slack more efficiently.
 - Meetings: Google Meet comes already with G Suite. Some people might also prefer to use Slack huddle.
-- Passwords: To securely manage passwords for various online accounts and applications, Pukara uses [1Password](https://1password.com/)
+- Passwords: To securely manage passwords for various online accounts and applications, Pukara uses [1Password](https://1password.com/){:target="_blank"}
 - Project Management: Pukara uses Jira for workflows, processes, collaborate more effectively, and improve overall productivity.
-- Knowledge Base: Although we are not very happy with it, we continue to use Confluence ([Home Page](https://pukarait.atlassian.net/wiki/spaces/PUK/overview)) as a centralized repository of information and knowledge. This is primarily because it has the best integration with Jira.
+- Knowledge Base: Although we are not very happy with it, we continue to use Confluence ([Home Page](https://pukarait.atlassian.net/wiki/spaces/PUK/overview){:target="_blank"}) as a centralized repository of information and knowledge. This is primarily because it has the best integration with Jira.
 
 ## Onboarding Checklist 
 
-Make sure that you have access to all of the following [tools & platforms](https://pukarait.atlassian.net/wiki/spaces/PUK/pages/2265415688/Checklist). If not, please speak with your line manager: 
+Make sure that you have access to all of the following [tools & platforms](https://pukarait.atlassian.net/wiki/spaces/PUK/pages/2265415688/Checklist){:target="_blank"}. If not, please speak with your line manager: 
 
-- Set up your [email signature](https://pukarait.atlassian.net/wiki/spaces/PUK/pages/2267512833/Email+signature)
+- Set up your [email signature](https://pukarait.atlassian.net/wiki/spaces/PUK/pages/2267512833/Email+signature){:target="_blank"}
 - (Optional but useful) Setup Calendar/G-Suite in your phone, along slack.
 
 ## Get to know company culture

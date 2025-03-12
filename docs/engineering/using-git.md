@@ -11,13 +11,13 @@ We hold certain principles in high regard:
 
 A commit is a snapshot of changes made to a Git repository, representing a specific point in the project's history. The following are the rules we follow when committing code to our repositories.
 
-- We use the [pre-commit framework](https://pre-commit.com/) for nearly every repository. Please ensure it is installed and used (anyway we have pipelines to enforce it).
+- We use the [pre-commit framework](https://pre-commit.com/){:target="_blank"} for nearly every repository. Please ensure it is installed and used (anyway we have pipelines to enforce it).
 - Write commit messages in English.
 - Commits should not group an excessive amount of changes. Ideally, commits should encompass concise functionalities or a small set of changes that accomplish a specific task.
 - Avoid the pattern of a single large commit. Instead, it is recommended to break it down into smaller commits.
 - The commit subject contains a concise description of the change. It is recommended to use the imperative form in the present tense. For example, use "change" instead of "changed" or "changes". Also, avoid placing a dot (.) at the end of the subject.
 
-???+ tip "From [The seven rules of a great Git commit message](https://cbea.ms/git-commit/#seven-rules)"
+???+ tip "From [The seven rules of a great Git commit message](https://cbea.ms/git-commit/#seven-rules){:target="_blank"}"
 
     1. Separate subject from body with a blank line
     2. Limit the subject line to 50 characters
@@ -38,7 +38,7 @@ The default "protected" branches we will be handling are `master` (or `main`) an
 
 It is advised not to work directly on a protected branch. Ideally, the work should be done within a branch that originates from the protected branch. Make the changes there, and once they are tested and ready, they can be merged into the protected branch.
 
-Unless otherwise specified in a project, merges from feature branches to protected branches will be done through [Merge Requests in GitLab](https://docs.gitlab.com/ee/user/project/merge_requests/getting_started.html) or [Pull Requests in Github](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). These requests will then be reviewed and approved.
+Unless otherwise specified in a project, merges from feature branches to protected branches will be done through [Merge Requests in GitLab](https://docs.gitlab.com/ee/user/project/merge_requests){:target="_blank"} or [Pull Requests in Github](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests){:target="_blank"}. These requests will then be reviewed and approved.
 
 Development branches should have meaningful, descriptive, and short names. If you are working on a feature described in a Jira task, the branch must be named after the task code:
 
@@ -60,7 +60,7 @@ Some tips when for working with *development branches* Avoid reusing names of ol
 
 ## About PR (Pull Requests)
 
-For every [Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) or Merge Request (MR), there are minimum expectations (see below). While some repositories have a predefined [PR's template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository) and checklists, others may not have these due to different customer preferences, and we need to maintain flexibility in such cases.
+For every [Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests){:target="_blank"} or Merge Request (MR), there are minimum expectations (see below). While some repositories have a predefined [PR's template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository){:target="_blank"} and checklists, others may not have these due to different customer preferences, and we need to maintain flexibility in such cases.
 
 The minimum requirements are as follows:
 
@@ -85,6 +85,6 @@ Sensitive information must not be versioned; we achieve this by adding them to `
 
 ## Resources
 
-- [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
-- [Very good guide to larn Git](https://learngitbranching.js.org/)
-- [Learn Git by playing a game](https://ohmygit.org/)
+- [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf){:target="_blank"}
+- [Very good guide to learn Git](https://learngitbranching.js.org/){:target="_blank"}
+- [Learn Git by playing a game](https://ohmygit.org/){:target="_blank"}
